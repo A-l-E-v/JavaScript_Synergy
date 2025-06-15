@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Утильсбор статья</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;800&display=swap');
+        .font-inter { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-white font-inter">
+    <div class="relative w-[1512px] h-[1791px] bg-white">
+        
+        <!--"ПАРАЛЛЕЛЬНЫЙ ИМПОРТ" -->
+<div class="absolute w-[205px] h-[17px] left-[100px] top-[87px]">
+    <span class="font-inter font-medium text-sm leading-[17px] tracking-[0.08em] text-green-500 whitespace-nowrap">
+        ПАРАЛЛЕЛЬНЫЙ ИМПОРТ
+    </span>
+</div>
+        
+        <!-- Заголовок -->
+        <div class="absolute w-[1017px] h-[126px] left-[100px] top-[116px]">
+            <h1 class="font-inter font-extrabold text-[52px] leading-[63px] text-black">
+                Утильсбор с 29 октября стал выше. Кому придется заплатить больше
+            </h1>
+        </div>
+        
+        <!-- Подзаголовок -->
+        <div class="absolute w-[610px] h-[19px] left-[100px] top-[266px]">
+            <p class="font-inter font-normal text-base leading-[19px] text-zinc-400">
+                Порядок уплаты утильсбора на автомобили изменен с 29 октября 2023 года
+            </p>
+        </div>
+        
+        <!-- Вступление -->
+        <div class="absolute w-[750px] h-[160px] left-[100px] top-[317px]">
+            <p class="font-inter font-normal text-2xl leading-8 text-black">
+                В России в очередной раз изменился порядок уплаты утильсбора на автомобили. Нововведение должно ограничить серый параллельный импорт, но при этом обычным покупателям в ряде случаев придется платить за машину больше
+            </p>
+        </div>
+        
+        <!-- Фотка -->
+        <div class="absolute w-[1200px] h-[750px] left-[100px] top-[545px]">
+            <img src="../T-1/assets/img/b010713d41a348a6ae7350db53ca6b1fb9bc4a51.png" alt="Автомобили" class="w-full h-full object-cover">
+        </div>
+        
+      <!-- Подпись фото -->
+<div class="absolute w-[126px] h-[17px] left-[1174px] top-[1304px]">
+    <p class="font-inter font-normal text-sm leading-[17px] text-right text-zinc-400 whitespace-nowrap">
+        Фото: Autonews.ru
+    </p>
+</div>
+
+        
+        <!-- Текст статьи -->
+        <div class="absolute w-[878px] h-[168px] left-[100px] top-[1365px]">
+            <p class="font-inter font-normal text-lg leading-6 text-black">
+                Очередные изменения в правилах оплаты утилизационного сбора на автомобили заработали в России с 29 октября 2023 года. Нововведение в первую очередь коснется серых автосалонов, которые используют лазейки для ввоза машин по более низким ставкам, оформляя их на физических лиц и перепродавая конечным покупателям. Теперь схему изменили так, что при покупке такого автомобиля новому собственнику в ряде случаев придется заплатить за машину дороже: до 844 тыс. руб. — 1,25 млн руб. Разбираемся, что произошло, с чем связаны изменения и как избежать лишних трат.
+            </p>
+        </div>
+        
+        <!-- Автор -->
+        <div class="absolute w-[120px] h-[17px] left-[100px] top-[1576px]">
+            <span class="font-inter font-normal text-sm leading-[17px] text-zinc-400">
+                Алина Распопова
+            </span>
+        </div>
+        
+        <!-- Дата -->
+        <div class="absolute w-[78px] h-[17px] left-[236px] top-[1576px]">
+            <span class="font-inter font-normal text-sm leading-[17px] text-zinc-400">
+                29 октября
+            </span>
+        </div>
+        
+    </div>
+</body>
+</html>
